@@ -8,7 +8,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 1.50838437654, "Prefecture": "Lobaye" },
+      "properties": { "Shape_Area": 1.50838437654, "Prefecture": "Lobaye" },,
+      "Population": 10000
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -684,7 +685,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 1.51307552679,
-        "Prefecture": "Sangha-Mbaéré"
+        "Prefecture": "Sangha-Mbaéré",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -1316,7 +1318,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 2.4019317806,
-        "Prefecture": "Mambéré-Kadéï"
+        "Prefecture": "Mambéré-Kadéï",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -2089,7 +2092,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 2.22046186159,
-        "Prefecture": "Nana-Mambéré"
+        "Prefecture": "Nana-Mambéré",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -2726,7 +2730,8 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 4.3183356704899998, "Prefecture": "Ouham" },
+      "properties": { "Shape_Area": 4.3183356704899998, "Prefecture": "Ouham" },,
+      "Population": 10000
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4038,7 +4043,8 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 1.34773962239, "Prefecture": "Kémo" },
+      "properties": { "Shape_Area": 1.34773962239, "Prefecture": "Kémo" },,
+      "Population": 10000
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4452,7 +4458,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 1.6102473618099999,
-        "Prefecture": "Nana-Gribizi"
+        "Prefecture": "Nana-Gribizi",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -5364,7 +5371,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 2.5949223051499999,
-        "Prefecture": "Ouham Pendé"
+        "Prefecture": "Ouham Pendé",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -6422,7 +6430,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 3.8523521551500002,
-        "Prefecture": "Vakaga"
+        "Prefecture": "Vakaga",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -7343,7 +7352,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 4.8002080277600001,
-        "Prefecture": "Bamingui-Bangoran"
+        "Prefecture": "Bamingui-Bangoran",
+        "Population": 25000
       },
       "geometry": {
         "type": "Polygon",
@@ -8799,7 +8809,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 7.0499515491100002,
-        "Prefecture": "Haute-Kotto"
+        "Prefecture": "Haute-Kotto",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -10057,7 +10068,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 4.6057519963900004,
-        "Prefecture": "Haut-Mbomou"
+        "Prefecture": "Haut-Mbomou",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -12080,7 +12092,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 4.9160698749799998,
-        "Prefecture": "Mbomou"
+        "Prefecture": "Mbomou",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -13498,7 +13511,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 2.6020000957999998,
-        "Prefecture": "Ombella M'Poko"
+        "Prefecture": "Ombella M'Poko",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -14430,7 +14444,8 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 4.0141150562299996, "Prefecture": "Ouaka" },
+      "properties": { "Shape_Area": 4.0141150562299996, "Prefecture": "Ouaka" },,
+      "Population": 10000
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15406,7 +15421,8 @@
       "type": "Feature",
       "properties": {
         "Shape_Area": 1.37759645535,
-        "Prefecture": "Basse-Kotto"
+        "Prefecture": "Basse-Kotto",
+        "Population": 10000
       },
       "geometry": {
         "type": "Polygon",
@@ -16150,7 +16166,8 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 0.00538155721, "Prefecture": "Bangui" },
+      "properties": { "Shape_Area": 0.00538155721, "Prefecture": "Bangui" },,
+      "Population": 10000
       "geometry": {
         "type": "Polygon",
         "coordinates": [

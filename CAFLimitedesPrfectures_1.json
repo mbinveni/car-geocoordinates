@@ -8,8 +8,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 1.50838437654, "Prefecture": "Lobaye" },,
-      "Population": 10000
+      "properties": {
+        "Shape_Area": 1.50838437654,
+        "Prefecture": "Lobaye",
+        "Population": 10000
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2730,8 +2733,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 4.3183356704899998, "Prefecture": "Ouham" },,
-      "Population": 10000
+      "properties": {
+        "Shape_Area": 4.3183356704899998,
+        "Prefecture": "Ouham",
+        "Population": 10000
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4043,8 +4049,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 1.34773962239, "Prefecture": "Kémo" },,
-      "Population": 10000
+      "properties": {
+        "Shape_Area": 1.34773962239,
+        "Prefecture": "Kémo",
+        "Population": 10000
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14444,8 +14453,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 4.0141150562299996, "Prefecture": "Ouaka" },,
-      "Population": 10000
+      "properties": {
+        "Shape_Area": 4.0141150562299996,
+        "Prefecture": "Ouaka",
+        "Population": 10000
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16166,8 +16178,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Shape_Area": 0.00538155721, "Prefecture": "Bangui" },,
-      "Population": 10000
+      "properties": {
+        "Shape_Area": 0.00538155721,
+        "Prefecture": "Bangui",
+        "Population": 10000
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

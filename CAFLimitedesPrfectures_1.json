@@ -10,6 +10,7 @@
       "type": "Feature",
       "properties": {
         "Prefecture": "Lobaye",
+        "Superficie": 19235, 
         "Population": 347021
       },
       "geometry": {
@@ -687,6 +688,7 @@
       "type": "Feature",
       "properties": {
         "Prefecture": "Sangha-Mbaéré",
+        "Superficie": 19412, 
         "Population": 142075
       },
       "geometry": {
@@ -1319,6 +1321,7 @@
       "type": "Feature",
       "properties": {
         "Prefecture": "Mambéré-Kadéï",
+        "Superficie": 30203,  
         "Population": 512776
       },
       "geometry": {
@@ -2092,6 +2095,7 @@
       "type": "Feature",
       "properties": {
         "Prefecture": "Nana-Mambéré",
+        "Superficie": 26600, "km2" 
         "Population": 328454
       },
       "geometry": {
